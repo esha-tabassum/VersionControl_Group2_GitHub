@@ -14,9 +14,10 @@ I will review commits, manage branches, and merge final changes here.
 ---
 
 ## ✏️ Ayesha
-(Write your part here after pulling or editing online)
+Github has a clean and user friendly interface. The navigation is easy for beginners. Creating our first repository was straightfprward.
+Key Features: one click branch creation, visual commit history and seamless collaboration tools that make team projects manageable.
+Conclusion: Overall, Github is highly  effective for group assignments. The mobile accessibility, though limited, allows basic monitoring and edits. 
 
----
 
 ## ✏️ Iqra
 # Introduction
