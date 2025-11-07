@@ -8,6 +8,9 @@ All group members will add, edit, and update their own sections below to show te
 ## ✏️ Esha Tabassum (Team Leader)
 I created this repository and added my team members to collaborate.  
 I will review commits, manage branches, and merge final changes here.
+Introduction:
+GitHub is an online platform that helps manage projects and versions.
+
 
 ---
 
