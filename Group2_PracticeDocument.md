@@ -17,7 +17,7 @@ GitHub is an online platform that helps manage projects and versions.
 ## ✏️ Ayesha
 Github has a clean and user friendly interface. The navigation is easy for beginners. Creating our first repository was straightfprward.
 Key Features: one click branch creation, visual commit history, and seamless collaboration tools that make team projects manageable.
----
+Conclussion: Overall, Github is highly effective for group assignments. The mobile accessibility, though limited , allows basic monitoring and edits.
 
 ## ✏️ Iqra
 (Write your part here after pulling or editing online)
