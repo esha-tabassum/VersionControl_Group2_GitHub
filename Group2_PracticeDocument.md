@@ -15,7 +15,7 @@ GitHub is an online platform that helps manage projects and versions.
 ---
 
 ## ✏️ Ayesha
-(Write your part here after pulling or editing online)
+Github has a clean and user friendly interface. The navigation is easy for beginners. Creating our first repository was starightfprward.
 
 ---
 
