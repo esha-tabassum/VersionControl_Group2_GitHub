@@ -14,3 +14,7 @@ To understand and apply version control concepts using GitHub, including:
 - Branching and committing
 - Merging and resolving conflicts
 - Collaborating in a shared project
+  
+## Final Remarks
+All branches were successfully merged into the main after dissolving the minor edits.This activity helped our group understand version control concepts like branching, commenting and merging using Github.Every member participated by creating their own branch and contributing to the shared document.
+
